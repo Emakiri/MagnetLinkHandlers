@@ -8,4 +8,4 @@
     to default value: 
      - "path\to\Magnet2Vlc.bat" %1      (for direct open in VLC)
      - or "path\to\Magnet_Menu.bat" %1  (for choose from menu: "open in VLC" or "add to mUtorrent")
-4. Enjoy )
+4. Enjoy )  
