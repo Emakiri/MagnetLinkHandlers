@@ -1,6 +1,6 @@
 # MagnetLinkHandlers
 - Menu for open magnet link: VLC player or mUtorrent
-- Or direct direct open in VLC player
+- Or direct open in VLC player
 
 1. install NodeJS <a href="https://github.com/mafintosh/peerflix">Peerflix</a> (<a href="http://zenway.ru/page/peerflix">Overview</a>).
 2. Save "Magnet2Vlc.bat" or "Magnet_Menu.bat"
